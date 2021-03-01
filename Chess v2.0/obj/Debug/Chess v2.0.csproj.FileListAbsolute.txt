@@ -1,0 +1,125 @@
+C:\Users\DxGod\Desktop\chess\Chess v2.0\Chess v2.0\bin\Debug\Chess v2.0.exe.config
+C:\Users\DxGod\Desktop\chess\Chess v2.0\Chess v2.0\obj\Debug\Chess v2.0.csprojResolveAssemblyReference.cache
+C:\Users\DxGod\Desktop\chess\Chess v2.0\Chess v2.0\obj\Debug\Chess_v2._0.Form1.resources
+C:\Users\DxGod\Desktop\chess\Chess v2.0\Chess v2.0\obj\Debug\Chess_v2._0.Properties.Resources.resources
+C:\Users\DxGod\Desktop\chess\Chess v2.0\Chess v2.0\obj\Debug\Chess v2.0.csproj.GenerateResource.Cache
+C:\Users\DxGod\Desktop\chess\Chess v2.0\Chess v2.0\bin\Debug\Chess v2.0.exe
+C:\Users\DxGod\Desktop\chess\Chess v2.0\Chess v2.0\bin\Debug\Chess v2.0.pdb
+C:\Users\DxGod\Desktop\chess\Chess v2.0\Chess v2.0\obj\Debug\Chess v2.0.exe
+C:\Users\DxGod\Desktop\chess\Chess v2.0\Chess v2.0\obj\Debug\Chess v2.0.pdb
+C:\Users\DxGod\Desktop\Chess v2.0\Chess v2.0\bin\Debug\Chess v2.0.exe.config
+C:\Users\DxGod\Desktop\Chess v2.0\Chess v2.0\obj\Debug\Chess v2.0.exe
+C:\Users\DxGod\Desktop\Chess v2.0\Chess v2.0\obj\Debug\Chess v2.0.pdb
+C:\Users\DxGod\Desktop\Chess v2.0\Chess v2.0\bin\Debug\Chess v2.0.exe
+C:\Users\DxGod\Desktop\Chess v2.0\Chess v2.0\bin\Debug\Chess v2.0.pdb
+C:\Users\DxGod\Desktop\Chess v2.0\Chess v2.0\obj\Debug\Chess v2.0.csprojResolveAssemblyReference.cache
+C:\Users\DxGod\Desktop\Chess v2.0\Chess v2.0\obj\Debug\Chess_v2._0.Form1.resources
+C:\Users\DxGod\Desktop\Chess v2.0\Chess v2.0\obj\Debug\Chess_v2._0.Properties.Resources.resources
+C:\Users\DxGod\Desktop\Chess v2.0\Chess v2.0\obj\Debug\Chess v2.0.csproj.GenerateResource.Cache
+C:\Users\DxGod\Desktop\chess\Chess v2.2\Chess v2.0\bin\Debug\Chess v2.0.exe.config
+C:\Users\DxGod\Desktop\chess\Chess v2.2\Chess v2.0\obj\Debug\Chess v2.0.exe
+C:\Users\DxGod\Desktop\chess\Chess v2.2\Chess v2.0\obj\Debug\Chess v2.0.pdb
+C:\Users\DxGod\Desktop\chess\Chess v2.2\Chess v2.0\bin\Debug\Chess v2.0.exe
+C:\Users\DxGod\Desktop\chess\Chess v2.2\Chess v2.0\bin\Debug\Chess v2.0.pdb
+C:\Users\DxGod\Desktop\chess\Chess v2.2\Chess v2.0\obj\Debug\Chess v2.0.csprojResolveAssemblyReference.cache
+C:\Users\DxGod\Desktop\chess\Chess v2.2\Chess v2.0\obj\Debug\Chess_v2._0.Form1.resources
+C:\Users\DxGod\Desktop\chess\Chess v2.2\Chess v2.0\obj\Debug\Chess_v2._0.Properties.Resources.resources
+C:\Users\DxGod\Desktop\chess\Chess v2.2\Chess v2.0\obj\Debug\Chess v2.0.csproj.GenerateResource.Cache
+C:\Users\DxGod\Desktop\chess\Chess v2.3\Chess v2.0\bin\Debug\Chess v2.0.exe.config
+C:\Users\DxGod\Desktop\chess\Chess v2.3\Chess v2.0\obj\Debug\Chess v2.0.exe
+C:\Users\DxGod\Desktop\chess\Chess v2.3\Chess v2.0\obj\Debug\Chess v2.0.pdb
+C:\Users\DxGod\Desktop\chess\Chess v2.3\Chess v2.0\obj\Debug\Chess v2.0.csprojResolveAssemblyReference.cache
+C:\Users\DxGod\Desktop\chess\Chess v2.3\Chess v2.0\obj\Debug\Chess_v2._0.Form1.resources
+C:\Users\DxGod\Desktop\chess\Chess v2.3\Chess v2.0\obj\Debug\Chess_v2._0.Properties.Resources.resources
+C:\Users\DxGod\Desktop\chess\Chess v2.3\Chess v2.0\obj\Debug\Chess v2.0.csproj.GenerateResource.Cache
+C:\Users\DxGod\Desktop\chess\Chess v2.3\Chess v2.0\bin\Debug\Chess v2.0.exe
+C:\Users\DxGod\Desktop\chess\Chess v2.3\Chess v2.0\bin\Debug\Chess v2.0.pdb
+C:\Users\DxGod\Desktop\chess\Chess Test V3.0\Chess v2.0\bin\Debug\Chess v2.0.exe.config
+C:\Users\DxGod\Desktop\chess\Chess Test V3.0\Chess v2.0\obj\Debug\Chess v2.0.exe
+C:\Users\DxGod\Desktop\chess\Chess Test V3.0\Chess v2.0\obj\Debug\Chess v2.0.pdb
+C:\Users\DxGod\Desktop\chess\Chess Test V3.0\Chess v2.0\bin\Debug\Chess v2.0.exe
+C:\Users\DxGod\Desktop\chess\Chess Test V3.0\Chess v2.0\bin\Debug\Chess v2.0.pdb
+C:\Users\DxGod\Desktop\chess\Chess Test V3.0\Chess v2.0\obj\Debug\Chess v2.0.csprojResolveAssemblyReference.cache
+C:\Users\DxGod\Desktop\chess\Chess Test V3.0\Chess v2.0\obj\Debug\Chess_v2._0.Form1.resources
+C:\Users\DxGod\Desktop\chess\Chess Test V3.0\Chess v2.0\obj\Debug\Chess_v2._0.Properties.Resources.resources
+C:\Users\DxGod\Desktop\chess\Chess Test V3.0\Chess v2.0\obj\Debug\Chess v2.0.csproj.GenerateResource.Cache
+C:\Users\DxGod\Desktop\Proiect Morariu\chess\Chess Test V3.0\Chess v2.0\bin\Debug\Chess v2.0.exe.config
+C:\Users\DxGod\Desktop\Proiect Morariu\chess\Chess Test V3.0\Chess v2.0\obj\Debug\Chess v2.0.exe
+C:\Users\DxGod\Desktop\Proiect Morariu\chess\Chess Test V3.0\Chess v2.0\obj\Debug\Chess v2.0.pdb
+C:\Users\DxGod\Desktop\Proiect Morariu\chess\Chess Test V3.0\Chess v2.0\obj\Debug\Chess v2.0.csprojResolveAssemblyReference.cache
+C:\Users\DxGod\Desktop\Proiect Morariu\chess\Chess Test V3.0\Chess v2.0\obj\Debug\Chess_v2._0.Form1.resources
+C:\Users\DxGod\Desktop\Proiect Morariu\chess\Chess Test V3.0\Chess v2.0\obj\Debug\Chess_v2._0.Properties.Resources.resources
+C:\Users\DxGod\Desktop\Proiect Morariu\chess\Chess Test V3.0\Chess v2.0\obj\Debug\Chess v2.0.csproj.GenerateResource.Cache
+C:\Users\DxGod\Desktop\Proiect Morariu\chess\Chess Test V3.0\Chess v2.0\bin\Debug\Chess v2.0.exe
+C:\Users\DxGod\Desktop\Proiect Morariu\chess\Chess Test V3.0\Chess v2.0\bin\Debug\Chess v2.0.pdb
+C:\Users\DxGod\Desktop\Proiect Morariu\chess\Chess Test V3.0\Chess v2.0\bin\Debug\Newtonsoft.Json.dll
+C:\Users\DxGod\Desktop\Proiect Morariu\chess\Chess Test V3.0\Chess v2.0\bin\Debug\Newtonsoft.Json.xml
+C:\Users\DxGod\Desktop\chess\Chess Test V3.0\Chess v2.0\bin\Debug\Newtonsoft.Json.dll
+C:\Users\DxGod\Desktop\chess\Chess Test V3.0\Chess v2.0\bin\Debug\Newtonsoft.Json.xml
+C:\Users\DxGod\Desktop\chess\Chess v3.A\Chess v2.0\bin\Debug\Chess v2.0.exe.config
+C:\Users\DxGod\Desktop\chess\Chess v3.A\Chess v2.0\obj\Debug\Chess v2.0.exe
+C:\Users\DxGod\Desktop\chess\Chess v3.A\Chess v2.0\obj\Debug\Chess v2.0.pdb
+C:\Users\DxGod\Desktop\chess\Chess v3.A\Chess v2.0\obj\Debug\Chess v2.0.csprojResolveAssemblyReference.cache
+C:\Users\DxGod\Desktop\chess\Chess v3.A\Chess v2.0\obj\Debug\Chess_v2._0.Form1.resources
+C:\Users\DxGod\Desktop\chess\Chess v3.A\Chess v2.0\obj\Debug\Chess_v2._0.Properties.Resources.resources
+C:\Users\DxGod\Desktop\chess\Chess v3.A\Chess v2.0\obj\Debug\Chess v2.0.csproj.GenerateResource.Cache
+C:\Users\DxGod\Desktop\chess\Chess v3.A\Chess v2.0\bin\Debug\Chess v2.0.exe
+C:\Users\DxGod\Desktop\chess\Chess v3.A\Chess v2.0\bin\Debug\Chess v2.0.pdb
+C:\Users\DxGod\Desktop\chess\Chess v3.A\Chess v2.0\bin\Debug\Newtonsoft.Json.dll
+C:\Users\DxGod\Desktop\chess\Chess v3.A\Chess v2.0\bin\Debug\Newtonsoft.Json.xml
+C:\Users\DxGod\Desktop\chess\Chess v4.0\Chess v2.0\bin\Debug\Chess v2.0.exe.config
+C:\Users\DxGod\Desktop\chess\Chess v4.0\Chess v2.0\obj\Debug\Chess v2.0.exe
+C:\Users\DxGod\Desktop\chess\Chess v4.0\Chess v2.0\obj\Debug\Chess v2.0.pdb
+C:\Users\DxGod\Desktop\chess\Chess v4.0\Chess v2.0\bin\Debug\Chess v2.0.exe
+C:\Users\DxGod\Desktop\chess\Chess v4.0\Chess v2.0\bin\Debug\Chess v2.0.pdb
+C:\Users\DxGod\Desktop\chess\Chess v4.0\Chess v2.0\bin\Debug\Newtonsoft.Json.dll
+C:\Users\DxGod\Desktop\chess\Chess v4.0\Chess v2.0\bin\Debug\Newtonsoft.Json.xml
+C:\Users\DxGod\Desktop\chess\Chess v4.0\Chess v2.0\obj\Debug\Chess v2.0.csprojResolveAssemblyReference.cache
+C:\Users\DxGod\Desktop\chess\Chess v4.0\Chess v2.0\obj\Debug\Chess_v2._0.Form1.resources
+C:\Users\DxGod\Desktop\chess\Chess v4.0\Chess v2.0\obj\Debug\Chess_v2._0.Properties.Resources.resources
+C:\Users\DxGod\Desktop\chess\Chess v4.0\Chess v2.0\obj\Debug\Chess v2.0.csproj.GenerateResource.Cache
+C:\Users\DxGod\Desktop\chess\Chess v4.1\Chess v2.0\bin\Debug\Chess v2.0.exe.config
+C:\Users\DxGod\Desktop\chess\Chess v4.1\Chess v2.0\obj\Debug\Chess v2.0.exe
+C:\Users\DxGod\Desktop\chess\Chess v4.1\Chess v2.0\obj\Debug\Chess v2.0.pdb
+C:\Users\DxGod\Desktop\chess\Chess v4.1\Chess v2.0\bin\Debug\Chess v2.0.exe
+C:\Users\DxGod\Desktop\chess\Chess v4.1\Chess v2.0\bin\Debug\Chess v2.0.pdb
+C:\Users\DxGod\Desktop\chess\Chess v4.1\Chess v2.0\bin\Debug\Newtonsoft.Json.dll
+C:\Users\DxGod\Desktop\chess\Chess v4.1\Chess v2.0\bin\Debug\Newtonsoft.Json.xml
+C:\Users\DxGod\Desktop\chess\Chess v4.1\Chess v2.0\obj\Debug\Chess v2.0.csprojResolveAssemblyReference.cache
+C:\Users\DxGod\Desktop\chess\Chess v4.1\Chess v2.0\obj\Debug\Chess_v2._0.Form1.resources
+C:\Users\DxGod\Desktop\chess\Chess v4.1\Chess v2.0\obj\Debug\Chess_v2._0.Properties.Resources.resources
+C:\Users\DxGod\Desktop\chess\Chess v4.1\Chess v2.0\obj\Debug\Chess v2.0.csproj.GenerateResource.Cache
+C:\Users\DxGod\Desktop\chess\1.Retea 2.0\Chess v2.0\bin\Debug\Newtonsoft.Json.xml
+C:\Users\DxGod\Desktop\chess\1.Retea 2.0\Chess v2.0\obj\Debug\Chess v2.0.csprojResolveAssemblyReference.cache
+C:\Users\DxGod\Desktop\chess\1.Retea 2.0\Chess v2.0\obj\Debug\Chess_v2._0.Form1.resources
+C:\Users\DxGod\Desktop\chess\1.Retea 2.0\Chess v2.0\obj\Debug\Chess_v2._0.Properties.Resources.resources
+C:\Users\DxGod\Desktop\chess\1.Retea 2.0\Chess v2.0\obj\Debug\Chess v2.0.csproj.GenerateResource.Cache
+C:\Users\DxGod\Desktop\chess\1.Retea 2.0\Chess v2.0\bin\Debug\Chess v2.0.exe.config
+C:\Users\DxGod\Desktop\chess\1.Retea 2.0\Chess v2.0\bin\Debug\Chess v2.0.exe
+C:\Users\DxGod\Desktop\chess\1.Retea 2.0\Chess v2.0\bin\Debug\Chess v2.0.pdb
+C:\Users\DxGod\Desktop\chess\1.Retea 2.0\Chess v2.0\obj\Debug\Chess v2.0.exe
+C:\Users\DxGod\Desktop\chess\1.Retea 2.0\Chess v2.0\obj\Debug\Chess v2.0.pdb
+C:\Users\DxGod\Desktop\chess\Chess v3.2\Chess v2.0\bin\Debug\Chess v2.0.exe.config
+C:\Users\DxGod\Desktop\chess\Chess v3.2\Chess v2.0\obj\Debug\Chess v2.0.exe
+C:\Users\DxGod\Desktop\chess\Chess v3.2\Chess v2.0\obj\Debug\Chess v2.0.pdb
+C:\Users\DxGod\Desktop\Proiect Morariu\chess\Chess v3.2\Chess v2.0\bin\Debug\Chess v2.0.exe.config
+C:\Users\DxGod\Desktop\Proiect Morariu\chess\Chess v3.2\Chess v2.0\obj\Debug\Chess v2.0.exe
+C:\Users\DxGod\Desktop\Proiect Morariu\chess\Chess v3.2\Chess v2.0\obj\Debug\Chess v2.0.pdb
+C:\Users\DxGod\Desktop\Proiect Morariu\chess\Chess v3.2\Chess v2.0\bin\Debug\Chess v2.0.exe
+C:\Users\DxGod\Desktop\Proiect Morariu\chess\Chess v3.2\Chess v2.0\bin\Debug\Chess v2.0.pdb
+C:\Users\DxGod\Desktop\Proiect Morariu\chess\Chess v3.2\Chess v2.0\bin\Debug\Newtonsoft.Json.xml
+C:\Users\DxGod\Desktop\Proiect Morariu\chess\Chess v3.2\Chess v2.0\obj\Debug\Chess v2.0.csprojResolveAssemblyReference.cache
+C:\Users\DxGod\Desktop\Proiect Morariu\chess\Chess v3.2\Chess v2.0\obj\Debug\Chess_v2._0.Form1.resources
+C:\Users\DxGod\Desktop\Proiect Morariu\chess\Chess v3.2\Chess v2.0\obj\Debug\Chess_v2._0.Properties.Resources.resources
+C:\Users\DxGod\Desktop\Proiect Morariu\chess\Chess v3.2\Chess v2.0\obj\Debug\Chess v2.0.csproj.GenerateResource.Cache
+D:\POO Proiect\Chess v3.2\Chess v2.0\bin\Debug\Chess v2.0.exe.config
+D:\POO Proiect\Chess v3.2\Chess v2.0\bin\Debug\Chess v2.0.exe
+D:\POO Proiect\Chess v3.2\Chess v2.0\bin\Debug\Chess v2.0.pdb
+D:\POO Proiect\Chess v3.2\Chess v2.0\bin\Debug\Newtonsoft.Json.xml
+D:\POO Proiect\Chess v3.2\Chess v2.0\obj\Debug\Chess v2.0.csprojAssemblyReference.cache
+D:\POO Proiect\Chess v3.2\Chess v2.0\obj\Debug\Chess_v2._0.Form1.resources
+D:\POO Proiect\Chess v3.2\Chess v2.0\obj\Debug\Chess_v2._0.Properties.Resources.resources
+D:\POO Proiect\Chess v3.2\Chess v2.0\obj\Debug\Chess v2.0.csproj.GenerateResource.cache
+D:\POO Proiect\Chess v3.2\Chess v2.0\obj\Debug\Chess v2.0.csproj.CopyComplete
+D:\POO Proiect\Chess v3.2\Chess v2.0\obj\Debug\Chess v2.0.exe
+D:\POO Proiect\Chess v3.2\Chess v2.0\obj\Debug\Chess v2.0.pdb
